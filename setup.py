@@ -15,7 +15,6 @@ setup(name='victor',
       test_suite='victor.tests',
       install_requires=[
             'nose>=1.3.7',
-            'mock>=1.3.0',
             'coverage>=4.0.3',
             'flask>=0.10.1',
           ],
